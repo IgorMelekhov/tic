@@ -1,0 +1,10 @@
+C:\Users\79537\source\repos\Крестики нолики\Крестики нолики\Крестики нолики\bin\Debug\Крестики нолики.exe.config
+C:\Users\79537\source\repos\Крестики нолики\Крестики нолики\Крестики нолики\bin\Debug\Крестики нолики.exe
+C:\Users\79537\source\repos\Крестики нолики\Крестики нолики\Крестики нолики\bin\Debug\Крестики нолики.pdb
+C:\Users\79537\source\repos\Крестики нолики\Крестики нолики\Крестики нолики\obj\Debug\Крестики нолики.csproj.AssemblyReference.cache
+C:\Users\79537\source\repos\Крестики нолики\Крестики нолики\Крестики нолики\obj\Debug\Крестики_нолики.Properties.Resources.resources
+C:\Users\79537\source\repos\Крестики нолики\Крестики нолики\Крестики нолики\obj\Debug\Крестики нолики.csproj.GenerateResource.cache
+C:\Users\79537\source\repos\Крестики нолики\Крестики нолики\Крестики нолики\obj\Debug\Крестики нолики.csproj.CoreCompileInputs.cache
+C:\Users\79537\source\repos\Крестики нолики\Крестики нолики\Крестики нолики\obj\Debug\Крестики нолики.exe
+C:\Users\79537\source\repos\Крестики нолики\Крестики нолики\Крестики нолики\obj\Debug\Крестики нолики.pdb
+C:\Users\79537\source\repos\Крестики нолики\Крестики нолики\Крестики нолики\obj\Debug\Крестики_нолики.Form1.resources
